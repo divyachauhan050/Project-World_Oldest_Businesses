@@ -7,9 +7,9 @@ Like many business problems, the data is contained in several different datasets
 ## About the Datasets
 I have used three different datasets (courtesy of Datacamp).
 
-1. **‘businesses.csv’** contains the details about .
+1. **‘businesses.csv’** contains the details about the name of the business, year the business was founded, the category code of the business, and the ISO 3166-1 3-letter country code.
 
-2. **‘new_businesses.csv’** contains . 
+2. **‘new_businesses.csv’** . 
 
 3. **‘countries.csv’** contains information about the ISO 3166-1 3-letter country code, name of the country, and name of the continent that the country exists in.
 

@@ -25,3 +25,6 @@ These are some of the key findings for this project:
 2. **Cafés, Restaurants & Bars** is another industry sector that has been around for a really, really, long time.
 
 3. The continent-wise breakup for the different industry categories and the earliest year that records their existence is as follows:
+<br> </br>
+![Africa](https://user-images.githubusercontent.com/75243291/202369003-ee119866-cee0-40fd-aba3-22e5f42484f0.PNG)
+

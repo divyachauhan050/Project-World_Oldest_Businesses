@@ -27,4 +27,11 @@ These are some of the key findings for this project:
 3. The continent-wise breakup for the different industry categories and the earliest year that records their existence is as follows:
 <br> </br>
 ![Africa](https://user-images.githubusercontent.com/75243291/202369003-ee119866-cee0-40fd-aba3-22e5f42484f0.PNG)
+![Asia](https://user-images.githubusercontent.com/75243291/202369370-e61a94c1-8f79-4f22-9ee5-244d9c7fe58a.PNG)
+![Europe](https://user-images.githubusercontent.com/75243291/202369400-840f663e-680f-4553-888e-131a243577ed.PNG)
+![North_America](https://user-images.githubusercontent.com/75243291/202369422-81ff6614-3a24-4349-b72a-9bfd56851d1b.PNG)
+![Aus Oc](https://user-images.githubusercontent.com/75243291/202369447-f615d4b0-9bfd-4d5c-b028-703faaadf6d2.PNG)
+![South_America](https://user-images.githubusercontent.com/75243291/202369466-fddd20ed-66f2-4ccb-882d-1d576716ea49.PNG)
+
+
 

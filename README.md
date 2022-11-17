@@ -14,3 +14,12 @@ I have used three different datasets (courtesy of Datacamp).
 3. **‘countries.csv’** contains information about the ISO 3166-1 3-letter country code, name of the country, and name of the continent that the country exists in.
 
 4. **‘categories.csv’** contains information about the description of the business categories.
+
+## Key Findings
+
+**Business Question: "What characteristics enable a business to stand the test of time?"**
+
+These are some of the key findings for this project:
+1. **Banking and Finance** is an excellent industry to be in from a longetivity perspective. 
+
+2.

@@ -20,7 +20,7 @@ I have used three different datasets (courtesy of Datacamp).
 **Business Question that I try to answer: "What characteristics enable a business to stand the test of time?"**
 
 These are some of the key findings for this project:
-1. **Banking and Finance** is an excellent industry to be in from a longetivity perspective. I 
+1. **Banking and Finance** is an excellent industry to be in from a longetivity perspective.
 
 2. **Cafés, Restaurants & Bars** is another industry sector that has been around for a really, really, long time.
 

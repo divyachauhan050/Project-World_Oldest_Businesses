@@ -5,7 +5,7 @@ An important part of business is planning for the future and ensuring that the b
 Like many business problems, the data is contained in several different datasets. In order to understand the world's oldest businesses, I first needed to use joining techniques to merge our data. From there, I used manipulation tools such as grouping and filtering to answer questions about these historic businesses.
 
 ## About the Datasets
-I have used three different datasets (courtesy of Datacamp).
+I have used **four** different datasets (courtesy of Datacamp).
 
 1. **‘businesses.csv’** contains the details about the name of the business, year the business was founded, the category code of the business, and the ISO 3166-1 3-letter country code.
 

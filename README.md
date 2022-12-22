@@ -33,7 +33,7 @@ These are some of the key findings for this project:
 ![Aus Oc](https://user-images.githubusercontent.com/75243291/202369447-f615d4b0-9bfd-4d5c-b028-703faaadf6d2.PNG)
 ![South_America](https://user-images.githubusercontent.com/75243291/202369466-fddd20ed-66f2-4ccb-882d-1d576716ea49.PNG)
 
-4. The other thing about
+4. The other thing 
 
 
 
